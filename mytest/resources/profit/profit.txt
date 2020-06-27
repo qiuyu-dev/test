@@ -1,0 +1,7 @@
+1|zhang 100
+2|wang 200
+3|zhang 150
+4|lisi 190
+5|wang 50
+6|zhang 80
+7|lisi 50
